@@ -1,9 +1,9 @@
 ---
-title: Init Commit — Debugging My Lifestyle as a Developer
+title: Init Commit
 date: 2025-09-16 19:00:00 +0100
 categories: [Lifestyle, Development]
-tags: [Health, Fitness, Software Development, Habits, Productivity]
-description: Refactoring unhealthy developer habits through fitness, diet, and balance — the first commit in exploring healthier coding lives.
+tags: [Health, Fitness, Software Development, Habits]
+description: Like many developers, I fell into late nights, fast food and endless screen time. This blog post is my init commit to healthier habits.
 ---
 
 ## Init Commit
