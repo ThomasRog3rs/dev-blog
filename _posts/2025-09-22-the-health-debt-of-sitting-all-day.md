@@ -93,7 +93,7 @@ The main take away I want readers to have is to break up their sitting sessions 
 
 When I first started ___to want___ to make the conscious effort to get up and move I was rubbish at it, I would always forget! So, I went digging through my boxes to find my dusty sports watch because that has notifications to remind you to move... I would simply ignore the alerts or think "I will in a sec, let me finish writing this method then I'll get up" but always just forget afterwards. I have finally found something that works for me! As strange as this sounds, I keep a big cup of water on my desk and drink it as I'm coding, this makes me go to the toilet far more often and therefore I always remember to get up and move throughout the day. While I’m already up I do a few stretches, shake off my limbs, maybe do a couple of little squats and I'm back to it. It's been working great. And every time the cup is empty is another reason to get up to fill it up. This sounds daft but it works for me. Experiment and find something that works for you, perhaps the watch movement alerts will work for you, or a desktop movement timer/alert. The important thing is to break up your long periods of sitting as often as practical. 
 
-## Get a few extra steps in 
+### Get a few extra steps in 
 
 The best way to get more movement in our daily routines, reduce our risk factors for cardiovascular diseases and metabolic slowdown is to simply get more steps in every day. It’s one of the most accessible forms of physical activity yet is often overlooked when people look to get fit. Adding just a few hundred extra steps into your routine can unlock significant benefits for both your physical and mental wellbeing. 
 
